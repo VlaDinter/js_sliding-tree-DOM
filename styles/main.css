@@ -12,7 +12,8 @@ body {
   background: #eee; }
 
 li {
-  width: 0; }
+  width: 0;
+  font-weight: normal; }
 
 .display-none {
   display: none; }
