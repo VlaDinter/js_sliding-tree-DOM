@@ -13,8 +13,7 @@ body {
 
 li {
   width: 0;
-  font-weight: normal;
-  color: red; }
+  font-weight: normal; }
 
 .display-none {
   display: none; }
